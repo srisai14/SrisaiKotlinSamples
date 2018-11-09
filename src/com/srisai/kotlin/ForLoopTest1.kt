@@ -35,9 +35,10 @@ fun main(args:Array<String>) {
 
     var nums3 = 1..5
 
-    for(d in nums3.reversed()) {
+    for(d in nums3.reversed() step 2) {
         println(d)
     }
 
     println("Count of nums3 : ${nums3.count()}")
+    println(message = nums3.start)
 }
