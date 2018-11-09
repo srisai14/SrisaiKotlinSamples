@@ -30,4 +30,14 @@ fun main(args:Array<String>) {
     for(c in nums2) {
         println(c)
     }
+
+    println("----------Reversed---------")
+
+    var nums3 = 1..5
+
+    for(d in nums3.reversed()) {
+        println(d)
+    }
+
+    println("Count of nums3 : ${nums3.count()}")
 }
