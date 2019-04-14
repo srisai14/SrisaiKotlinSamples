@@ -2,7 +2,7 @@ package com.srisai.kotlin
 
 fun main(args:Array<String>) {
 
-    var a : Int =12;
+    var a : Int =2;
 
     var res = when(a) {
         1 -> "One"

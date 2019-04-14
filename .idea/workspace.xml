@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a6b44b8-739c-4e3a-b7da-34c4aebe1b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/MapTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/StringToInt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/IfElseTest2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/WhenAnyObjectTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/ClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/DataClassesTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/EnumClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/EqualityChecksTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/FunctionsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/InheritanceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/MutableStack.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/NullSafetyTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/SrisaiTest1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/samples/VarArgsTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/Alien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/CallingFromJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/CallingFromJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/DefaultParametersTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/DefaultParametersTestKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/ForLoopTest1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/ForLoopTest1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/FunctionExpressionTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/FunctionExpressionTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/IFElseTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/IFElseTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/ListTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/ListTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/MapTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/MapTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/NamedParametersTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/NamedParametersTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/OperatorsTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/OperatorsTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/SrisaiTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/SrisaiTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/StringComparissionTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/StringComparissionTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/StringToIntKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/StringToIntKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/WhenStringTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/WhenStringTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/WhenTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/com/srisai/kotlin/WhenTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/srisai/kotlin/StringComparissionTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/StringComparissionTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,29 +81,50 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
     </session>
+    <session id="1380260775">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="kt" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Kotlin" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="kt" value="3175" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Kotlin" value="3175" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/ForLoopTest1.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/InheritanceTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/ListTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/MapTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -85,64 +133,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionExpressionTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenAnyObjectTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallingFromJava.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/EqualityChecksTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="15" selection-end-column="30" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallFromJava.java">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/IFElseTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="180">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/NamedParametersTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/IfElseTest2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/DataClassesTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="82" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/EnumClassTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/StringToInt.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/Color.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/DefaultParametersTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenStringTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/Alien.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -156,6 +213,11 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stack</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -177,18 +239,33 @@
         <option value="$USER_HOME$/Downloads/SrisaiTestKt.java" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/OperatorsTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/IFElseTest.kt" />
-        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/StringComparissionTest.kt" />
-        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/WhenStringTest.kt" />
-        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/ForLoopTest1.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/ListTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/MapTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/FunctionExpressionTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallingFromJava.kt" />
-        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/DefaultParametersTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallFromJava.java" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/NamedParametersTest.kt" />
         <option value="$PROJECT_DIR$/src/com/srisai/kotlin/StringToInt.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/StringComparissionTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/DefaultParametersTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/ForLoopTest1.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/SrisaiNew.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/SrisaiTest1.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/FunctionsTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/VarArgsTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/NullSafetyTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/ClassTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/MutableStack.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/InheritanceTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/WhenAnyObjectTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/EqualityChecksTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/IfElseTest2.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/DataClassesTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/EnumClassTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/EnumTest.kt" />
+        <option value="$PROJECT_DIR$/src/com/srisai/kotlin/samples/Color.kt" />
       </list>
     </option>
   </component>
@@ -198,10 +275,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,36 +285,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SrisaiKotlinProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="SrisaiKotlinSamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SrisaiKotlinProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="SrisaiKotlinSamples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SrisaiKotlinProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="SrisaiKotlinSamples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SrisaiKotlinProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SrisaiKotlinSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541992521158" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555201976265" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -254,86 +337,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.srisai.kotlin.StringToIntKt">
-    <configuration name="FunctionCallFromJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.FunctionCallFromJava" />
-      <module name="Kotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.srisai.kotlin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.srisai.kotlin.CallingFromJava" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.srisai.kotlin.samples.ColorKt">
+    <configuration name="com.srisai.kotlin.IfElseTest2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.CallingFromJava" />
+      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.IfElseTest2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.srisai.kotlin.DefaultParametersTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.srisai.kotlin.samples.ColorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.DefaultParametersTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.samples.ColorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.srisai.kotlin.NamedParametersTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.srisai.kotlin.samples.DataClassesTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.NamedParametersTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.samples.DataClassesTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.srisai.kotlin.StringToIntKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.srisai.kotlin.samples.EnumClassTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.StringToIntKt" />
+      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.samples.EnumClassTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.srisai.kotlin.samples.EqualityChecksTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.srisai.kotlin.samples.EqualityChecksTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FunctionCallFromJava" />
-      <item itemvalue="Kotlin.com.srisai.kotlin.CallingFromJava" />
-      <item itemvalue="Kotlin.com.srisai.kotlin.DefaultParametersTestKt" />
-      <item itemvalue="Kotlin.com.srisai.kotlin.NamedParametersTestKt" />
-      <item itemvalue="Kotlin.com.srisai.kotlin.StringToIntKt" />
+      <item itemvalue="Kotlin.com.srisai.kotlin.samples.EqualityChecksTestKt" />
+      <item itemvalue="Kotlin.com.srisai.kotlin.IfElseTest2Kt" />
+      <item itemvalue="Kotlin.com.srisai.kotlin.samples.DataClassesTestKt" />
+      <item itemvalue="Kotlin.com.srisai.kotlin.samples.EnumClassTestKt" />
+      <item itemvalue="Kotlin.com.srisai.kotlin.samples.ColorKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.srisai.kotlin.StringToIntKt" />
-        <item itemvalue="Kotlin.com.srisai.kotlin.NamedParametersTestKt" />
-        <item itemvalue="Application.FunctionCallFromJava" />
-        <item itemvalue="Kotlin.com.srisai.kotlin.DefaultParametersTestKt" />
-        <item itemvalue="Kotlin.com.srisai.kotlin.CallingFromJava" />
+        <item itemvalue="Kotlin.com.srisai.kotlin.samples.ColorKt" />
+        <item itemvalue="Kotlin.com.srisai.kotlin.samples.EnumClassTestKt" />
+        <item itemvalue="Kotlin.com.srisai.kotlin.samples.DataClassesTestKt" />
+        <item itemvalue="Kotlin.com.srisai.kotlin.IfElseTest2Kt" />
+        <item itemvalue="Kotlin.com.srisai.kotlin.samples.EqualityChecksTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -349,17 +432,17 @@
       <updated>1541730604805</updated>
       <workItem from="1541730610625" duration="4355000" />
       <workItem from="1541988175944" duration="4338000" />
+      <workItem from="1554575740805" duration="11090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8693000" />
+    <option name="totallyTimeSpent" value="19783000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -368,16 +451,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32965517" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,20 +480,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com.srisai.kotlin.kt" />
-    <entry file="file://$USER_HOME$/Downloads/SrisaiTestKt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/SrisaiTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SrisaiTestKt.java" />
     <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/OperatorsTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -418,37 +488,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/IFElseTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/ListTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/StringComparissionTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenStringTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/MapTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/AlienJava.java">
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/StringToInt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/NamedParametersTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallingFromJava.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionExpressionTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/Alien.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/AlienJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="e#136#137#0" expanded="true" />
@@ -463,52 +554,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/Alien.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/StringComparissionTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/ForLoopTest1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/ListTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/MapTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionExpressionTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallingFromJava.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="15" selection-end-column="30" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/FunctionCallFromJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -519,17 +575,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/NamedParametersTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/ForLoopTest1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/StringToInt.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/SrisaiNew.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/SrisaiTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/SrisaiTest1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/FunctionsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/VarArgsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1554595338724" expanded="true" signature="238:311" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/NullSafetyTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/ClassTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/MutableStack.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/InheritanceTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenStringTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/WhenAnyObjectTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/EqualityChecksTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/IFElseTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/IfElseTest2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/DataClassesTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="82" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/EnumClassTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/srisai/kotlin/samples/Color.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
