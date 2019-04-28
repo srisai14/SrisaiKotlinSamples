@@ -5,6 +5,7 @@ import java.io.File
 fun main(args: Array<String>) {
 
     var lineCount: Int = 0
+    var customersList= mutableListOf<Customer>()
 
     File("/Users/jayakar/Git-Repo/SrisaiKotlinSamples/src/com/srisai/kotlin/customerdataprocessing/sales_data_sample.csv").forEachLine {
         if (lineCount == 0) {
@@ -25,8 +26,8 @@ fun main(args: Array<String>) {
                         tokens[21]
                 ),
                 phoneNo = tokens[14],
-                contactFirstName = tokens[22],
-                contactLastName = tokens[23],
+                contactFirstName = tokens[23],
+                contactLastName = tokens[24],
                 orders = Order(
                         orderNo = tokens[0].toInt(),
                         quantity = tokens[1].toInt(),
@@ -42,9 +43,11 @@ fun main(args: Array<String>) {
                 )
 
         )
+        customersList.add(customers)
 
-        println(customers)
+        //println(customersList.filter { it.customerName.equals("CAF Imports") })
     }
+    println(customersList.filter { it.customerName.equals("CAF Imports") }.groupingBy { it.contactFirstName }.eachCount())
 }
 
 data class Customer(
